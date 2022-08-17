@@ -35,9 +35,11 @@ _Image 4_
 
 The resulting web page as viewed from an iPad mini looks like this:
 
-![image](https://user-images.githubusercontent.com/106293233/185038992-3c9a15fb-beea-4bb4-80f3-0b6267cc23c7.png)
+![image](https://user-images.githubusercontent.com/106293233/185040057-a9689abe-c8e5-44d6-b8d3-7c1d2bfd357b.png)
 
-![image](https://user-images.githubusercontent.com/106293233/185039450-8fde5dc4-2af7-411c-a562-eacf12cd76a8.png)
+
+![image](https://user-images.githubusercontent.com/106293233/185040194-a39c0dd1-6ca6-4cc7-a3df-a9f8be1955d4.png)
+
 
 # **** The MARS Hemispheres are not appearing even though I used the updated index code provided.  I am submitting this as is for now (KAR 8/18/2022)
 
