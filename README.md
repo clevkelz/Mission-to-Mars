@@ -20,11 +20,20 @@ _Image 1_
 
 _Image 2_
 
-![2022-08-17_00-50-08](https://user-images.githubusercontent.com/106293233/185037215-4f6dd9ca-e6fe-4677-8026-b45bc57fe649.png)
+![image](https://user-images.githubusercontent.com/106293233/185038099-be943f84-af56-4f88-9b86-63904c6efbf6.png)
 
-Two other Bootstrap 3 componenets were added as a requirement of the challenge:  the background color of the Jumbotron button was changed to "Success", which is green color (see Image 3), and the "Mission to Mars" text was made bold using the <Strong> option (see Image 4).
+Two other Bootstrap 3 componenets were added as a requirement of the challenge:  the background color of the Jumbotron button was changed to "Success", which is green color (see Image 3), and the "Mission to Mars" text was made bold using the "strong" feature (see Image 4).
   
 _Image 3_  
+
+![image](https://user-images.githubusercontent.com/106293233/185038473-6227278c-5ab9-45bc-9147-70cb0ca4d459.png)
+
+
+
+
+
+
+
 
   
   
