@@ -24,12 +24,22 @@ _Image 2_
 
 Two other Bootstrap 3 componenets were added as a requirement of the challenge:  the background color of the Jumbotron button was changed to "Success", which is green color (see Image 3), and the "Mission to Mars" text was made bold using the "strong" feature (see Image 4).
   
-_Image 3_  
+_Image 3_
+  
+![image](https://user-images.githubusercontent.com/106293233/185038816-118b6d2b-b3a6-419f-80d6-eb223619763b.png)
+
+
+_Image 4_  
 
 ![image](https://user-images.githubusercontent.com/106293233/185038473-6227278c-5ab9-45bc-9147-70cb0ca4d459.png)
 
+The resulting web page as viewed from an iPad mini looks like this:
 
+![image](https://user-images.githubusercontent.com/106293233/185038992-3c9a15fb-beea-4bb4-80f3-0b6267cc23c7.png)
 
+![image](https://user-images.githubusercontent.com/106293233/185039450-8fde5dc4-2af7-411c-a562-eacf12cd76a8.png)
+
+# **** The MARS Hemispheres are not appearing even though I used the updated index code provided.  I am submitting this as is for now (KAR 8/18/2022)
 
 
 
