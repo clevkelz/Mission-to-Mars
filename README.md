@@ -14,9 +14,3 @@ Beautiful Soup and Splinter were used to scrape the information, which was then 
 
 The scraping for the first three portions of the website were done through the module while the fourth part was part of the challenge.  The original html code was included in the module.  The code for the Mars Hemispheres portion was developed for the challenge.  Another part of the challenge was to make the website mobile responsive using Bootstrap 3 grid system system.  This was accomplished by adding a class of "div class" under each heading and using the codes in the grid system.
 
-![image](https://user-images.githubusercontent.com/106293233/184765022-741878e3-ca90-494b-9a43-86e09a5d6a9a.png)
-
-Two other Bootstrap 3.3 componenents were used:  a header and a page number.
-
-Currently, the website looks like this:
-![2022-08-15_21-04-30](https://user-images.githubusercontent.com/106293233/184769844-6d829f2b-43bb-48b0-92c5-269be3fccdcb.png)
