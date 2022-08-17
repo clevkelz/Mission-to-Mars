@@ -14,5 +14,18 @@ Beautiful Soup and Splinter were used to scrape the information, which was then 
 
 The scraping for the first three portions of the website were done through the module while the fourth part was part of the challenge.  The original html code was included in the module.  The code for the Mars Hemispheres portion was developed for the challenge.  Another part of the challenge was to make the website mobile responsive using Bootstrap 3 grid system This was accomplished using div tags as presented in the grid system (see Image 1) and also by adding code to disable zooming capabilities (see Image 2).
 
+_Image 1_
 
 ![2022-08-15_20-53-41](https://user-images.githubusercontent.com/106293233/185036531-4058d204-281b-4f31-939e-ff7cc4c7563b.png)
+
+_Image 2_
+
+![2022-08-17_00-50-08](https://user-images.githubusercontent.com/106293233/185037215-4f6dd9ca-e6fe-4677-8026-b45bc57fe649.png)
+
+Two other Bootstrap 3 componenets were added as a requirement of the challenge:  the background color of the Jumbotron button was changed to "Success", which is green color (see Image 3), and the "Mission to Mars" text was made bold using the <Strong> option (see Image 4).
+  
+_Image 3_  
+
+  
+  
+  
