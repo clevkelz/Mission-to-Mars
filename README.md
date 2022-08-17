@@ -12,5 +12,7 @@ Beautiful Soup and Splinter were used to scrape the information, which was then 
 3.  App.py Python File - Places the scraped data in the MongoDB, which is a a non-relational database
 4.  Index.html File - Formats the design of the website 
 
-The scraping for the first three portions of the website were done through the module while the fourth part was part of the challenge.  The original html code was included in the module.  The code for the Mars Hemispheres portion was developed for the challenge.  Another part of the challenge was to make the website mobile responsive using Bootstrap 3 grid system system.  This was accomplished by adding a class of "div class" under each heading and using the codes in the grid system.
+The scraping for the first three portions of the website were done through the module while the fourth part was part of the challenge.  The original html code was included in the module.  The code for the Mars Hemispheres portion was developed for the challenge.  Another part of the challenge was to make the website mobile responsive using Bootstrap 3 grid system This was accomplished using div tags as presented in the grid system (see Image 1) and also by adding code to disable zooming capabilities (see Image 2).
 
+
+![2022-08-15_20-53-41](https://user-images.githubusercontent.com/106293233/185036531-4058d204-281b-4f31-939e-ff7cc4c7563b.png)
